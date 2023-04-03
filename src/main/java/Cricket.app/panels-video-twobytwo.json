@@ -1,0 +1,16 @@
+{
+    "panels": [
+               {
+               "tiles": [
+                         {
+                         "type": "video",
+                         "size": "large"
+                         },
+                         {
+                         "type": "video",
+                         "size": "large"
+                         }
+                         ]
+               }
+            ]
+}

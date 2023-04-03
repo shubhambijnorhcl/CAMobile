@@ -1,0 +1,17 @@
+{
+  "endPoints": {
+    "playAPI": "https://play.kayosports.com.au",
+    "cdnSelection": "https://cdnselectionserviceapi.kayosports.com.au"
+  },
+  "urls": {
+    "playAsset": {
+      "scheme": "{{playAPI}}/api/v1/asset/{{assetId}}/play",
+      "queryParams": {
+        "fields": "alternativeStreams,assettype"
+      }
+    },
+    "cdnSelection": {
+      "scheme": "{{cdnSelection}}/usecdn/mobile/live"
+    }
+  }
+}

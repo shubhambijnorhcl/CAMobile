@@ -1,0 +1,16 @@
+{
+    "panels": [
+               {
+               "tiles": [
+                         {
+                         "type": "article",
+                         "size": "large"
+                         },
+                         {
+                         "type": "article",
+                         "size": "large"
+                         }
+                         ]
+               }
+            ]
+}

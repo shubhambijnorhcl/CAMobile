@@ -1,0 +1,11 @@
+{
+    "typeFace": "Helvetica",
+    "style" : "light",
+    "primaryfontColor": "#7fb100",
+    "secondaryFontColor": "#b7b7b7",
+    "thirdFontColor": "#b7b7b7",
+    "fourthFontColor": "#b7b7b7",
+    "backgroundColor": "#FFFFFF",
+    "banner": null,
+    "phoneIcon": null
+}

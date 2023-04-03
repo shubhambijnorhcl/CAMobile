@@ -1,0 +1,958 @@
+
+{
+  "fixtures": [
+    {
+      "competition": {
+        "id": 2129,
+        "name": "Sri Lanka v Pakistan Tests - Men",
+        "url": "https://www.cricket.com.au/series/sri-lanka-pakistan-mens-tour-test-series-2022/bx6kmvaytueojdhngwwpug",
+        "imageUrl": "https://www.cricket.com.au/-/media/Logos/Series/2015/Series-Generic-International-new.ashx",
+        "bannerImageUrl": "https://www.cricket.com.au/-/media/Logos/Series/Series%20banners/Series-Generic.ashx",
+        "drinksNotificationEnabled": false,
+        "order": 2,
+        "twitterHandle": "",
+        "startDateTime": "2022-07-16T00:00:00Z",
+        "endDateTime": "2022-07-28T00:00:00Z",
+        "themeUrl": "",
+        "viewerVerdict": false,
+        "priority": "Medium",
+        "statisticsProvider": "Opta Sports",
+        "relatedSeriesIds": "",
+        "isWomensCompetition": false,
+        "formats": [
+          {
+            "displayName": "Test",
+            "associatedMatchType": "T20",
+            "seriesFormatName": "Test"
+          }
+        ],
+        "legacyCompetitionId": 3013,
+        "isPublished": true,
+        "sitecoreId": "328a7e05-18f0-47b5-8e8c-31e71b058fba"
+      },
+      "homeTeam": {
+        "id": 9,
+        "name": "South Africs Women",
+        "shortName": "SL",
+        "teamColor": "#082AA2",
+        "logoUrl": "https://www.cricket.com.au/-/media/Logos/Teams/International/Sri%20Lanka.ashx",
+        "backgroundImageUrl": "https://www.cricket.com.au/-/media/Logos/Teams/Team-Backgrounds/International/SL3.ashx",
+        "teambadgeImageUrl": "",
+        "isHomeTeam": true,
+        "isTossWinner": true,
+        "isMatchWinner": true,
+        "battingBonus": 0,
+        "bowlingBonus": 0,
+        "isActive": true
+      },
+      "awayTeam": {
+        "id": 11,
+        "name": "Sri Lanka Women",
+        "shortName": "PAK",
+        "teamColor": "#004E00",
+        "logoUrl": "https://www.cricket.com.au/-/media/Logos/Teams/International/Team-Pakistan.ashx",
+        "backgroundImageUrl": "https://www.cricket.com.au/-/media/Logos/Teams/Team-Backgrounds/International/PAK3.ashx",
+        "teambadgeImageUrl": "",
+        "isHomeTeam": false,
+        "isTossWinner": false,
+        "isMatchWinner": false,
+        "battingBonus": 0,
+        "bowlingBonus": 0,
+        "isActive": true
+      },
+      "venue": {
+        "id": 130,
+        "name": "Galle International Stadium, Galle",
+        "city": "",
+        "imageUrl": "",
+        "latitude": "",
+        "longitude": "",
+        "phoneNumber": ""
+      },
+      "streams":[{
+          "fixtureId":123,
+          "streamType":"String"
+      }],
+      "innings": [
+      ],
+      "id": 13959,
+      "name": "1st Test",
+      "startDateTime": "2022-07-16T04:30:00Z",
+      "endDateTime": "2022-07-20T11:30:00Z",
+      "gameTypeId": 1,
+      "gameType": "T20",
+      "isLive": false,
+      "isCompleted": false,
+      "isDuckworthLewis": false,
+      "matchDay": 3,
+      "numberOfDays": 5,
+      "resultText": "Sri Lanka won by an inning and 4 runs",
+      "resultTypeId": "None",
+      "resultType": "None",
+      "gameStatusId": "Stumps",
+      "gameStatus": "Stumps",
+      "tossResult": "Sri Lanka won the toss and elected to bat.",
+      "tossDecision": "Bat",
+      "ticketUrl": "",
+      "featured": false,
+      "isWomensMatch": false,
+      "fanHashTag": "",
+      "twitterHandle": "",
+      "socialEventId": "",
+      "tuneIn": false,
+      "matchDayHomePageImageUrl": "",
+      "fanSocialEventId": "",
+      "isVideoReplays": false,
+      "gamedayStatus": "",
+      "isEnableGameday": false,
+      "moreInfoUrl": "",
+      "oversRemaining": "0.0",
+      "order": 1,
+      "competitionId": 2129,
+      "venueId": 130,
+      "homeTeamId": 9,
+      "awayTeamId": 11,
+      "channels": [
+        
+      ],
+      "streams":[{"fixtureId":123,
+          "streamType":"video"}],
+      "officials": [
+        {
+          "firstName": "Handunnettige",
+          "lastName": "Dharmasena",
+          "initials": "H D P K",
+          "umpireType": "OnField",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Marais",
+          "lastName": "Erasmus",
+          "initials": "M",
+          "umpireType": "OnField",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Rodney",
+          "lastName": "Tucker",
+          "initials": "R J",
+          "umpireType": "Video",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Raja",
+          "lastName": "Wimalasiri",
+          "initials": "R R",
+          "umpireType": "Reserve",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Jeffrey",
+          "lastName": "Crowe",
+          "initials": "J J",
+          "umpireType": "MatchReferee",
+          "hasRetired": false
+        }
+      ],
+      "legacyFixtureId": 54228,
+      "isInProgress": true,
+      "totalOvers": "",
+      "isPublished": true
+    },
+    {
+      "competition": {
+        "id": 1996,
+        "name": "Ireland v New Zealand T20Is - Men",
+        "url": "https://www.cricket.com.au/series/t20is/e8hffofgcu2nhccii9pvcw",
+        "imageUrl": "https://www.cricket.com.au/-/media/Logos/Series/2015/Series-Generic-International-new.ashx",
+        "bannerImageUrl": "https://www.cricket.com.au/-/media/Logos/Series/Series%20banners/Series-Generic.ashx",
+        "drinksNotificationEnabled": false,
+        "order": 4,
+        "twitterHandle": "",
+        "startDateTime": "2022-07-18T00:00:00Z",
+        "endDateTime": "2022-07-22T00:00:00Z",
+        "themeUrl": "",
+        "viewerVerdict": false,
+        "priority": "Lowest",
+        "statisticsProvider": "Opta Sports",
+        "relatedSeriesIds": "",
+        "isWomensCompetition": false,
+        "formats": [
+          {
+            "displayName": "T20 Intl",
+            "associatedMatchType": "T20",
+            "seriesFormatName": "T20"
+          }
+        ],
+        "legacyCompetitionId": 2956,
+        "isPublished": true,
+        "sitecoreId": "1645c87b-4681-4d71-a785-c0a223da5573"
+      },
+      "homeTeam": {
+        "id": 5,
+        "name": "Ireland Men",
+        "shortName": "IRE",
+        "teamColor": "#009b48",
+        "logoUrl": "https://www.cricket.com.au/-/media/Logos/Teams/International/Ireland.ashx",
+        "backgroundImageUrl": "",
+        "teambadgeImageUrl": "",
+        "isHomeTeam": true,
+        "isTossWinner": true,
+        "isMatchWinner": false,
+        "battingBonus": 0,
+        "bowlingBonus": 0,
+        "isActive": true
+      },
+      "awayTeam": {
+        "id": 25,
+        "name": "New Zealand Men",
+        "shortName": "NZ",
+        "teamColor": "#2A2A2A",
+        "logoUrl": "https://www.cricket.com.au/-/media/Logos/Teams/International/New%20Zealand.ashx",
+        "backgroundImageUrl": "https://www.cricket.com.au/-/media/Logos/Teams/Team-Backgrounds/International/NZ3.ashx",
+        "teambadgeImageUrl": "",
+        "isHomeTeam": false,
+        "isTossWinner": false,
+        "isMatchWinner": true,
+        "battingBonus": 0,
+        "bowlingBonus": 0,
+        "isActive": true
+      },
+      "venue": {
+        "id": 280,
+        "name": "Civil Service Cricket Club, Belfast",
+        "city": "",
+        "imageUrl": "",
+        "latitude": "",
+        "longitude": "",
+        "phoneNumber": ""
+      },
+      "innings": [
+        {
+          "id": 26624,
+          "fixtureId": 13189,
+          "inningNumber": 1,
+          "battingTeamId": 25,
+          "bowlingTeamId": 5,
+          "isDeclared": false,
+          "isFollowOn": false,
+          "isForfeited": false,
+          "overnightRuns": 0,
+          "overnightWickets": 0,
+          "byesRuns": 0,
+          "legByesRuns": 6,
+          "noBalls": 1,
+          "penalties": 0,
+          "totalExtras": 16,
+          "wideBalls": 9,
+          "oversBowled": "20.0",
+          "runsScored": 173,
+          "currentRunRate": 8.65,
+          "numberOfWicketsFallen": 8,
+          "day": 1,
+          "duckworthLewisOvers": ""
+        },
+        {
+          "id": 26769,
+          "fixtureId": 13189,
+          "inningNumber": 2,
+          "battingTeamId": 5,
+          "bowlingTeamId": 25,
+          "isDeclared": false,
+          "isFollowOn": false,
+          "isForfeited": false,
+          "overnightRuns": 0,
+          "overnightWickets": 0,
+          "byesRuns": 0,
+          "legByesRuns": 0,
+          "noBalls": 1,
+          "penalties": 0,
+          "totalExtras": 12,
+          "wideBalls": 11,
+          "oversBowled": "18.2",
+          "runsScored": 142,
+          "requiredRunRate": 19.2,
+          "currentRunRate": 7.75,
+          "numberOfWicketsFallen": 10,
+          "day": 0,
+          "duckworthLewisOvers": ""
+        }
+      ],
+      "id": 13189,
+      "name": "1st T20I",
+      "startDateTime": "2022-07-18T15:00:00Z",
+      "endDateTime": "2022-07-18T18:29:27Z",
+      "gameTypeId": 3,
+      "gameType": "T20 International",
+      "isLive": true,
+      "isCompleted": false,
+      "isDuckworthLewis": false,
+      "matchDay": 1,
+      "numberOfDays": 1,
+      "resultText": "New Zealand win by 31 runs",
+      "resultTypeId": "AwayWin",
+      "resultType": "Away Win",
+      "gameStatusId": "Result",
+      "gameStatus": "Result",
+      "tossResult": "Ireland won the toss and elected to bowl.",
+      "tossDecision": "Field",
+      "winningMargin": 31,
+      "winTypeId": "Runs",
+      "winType": "Runs",
+      "ticketUrl": "",
+      "featured": false,
+      "isWomensMatch": false,
+      "fanHashTag": "",
+      "twitterHandle": "",
+      "socialEventId": "",
+      "tuneIn": false,
+      "matchDayHomePageImageUrl": "",
+      "fanSocialEventId": "",
+      "isVideoReplays": false,
+      "gamedayStatus": "",
+      "isEnableGameday": false,
+      "moreInfoUrl": "",
+      "oversRemaining": "",
+      "order": 3,
+      "competitionId": 1996,
+      "venueId": 280,
+      "homeTeamId": 5,
+      "awayTeamId": 25,
+      "channels": [
+        
+      ],
+      "officials": [
+        {
+          "firstName": "Paul",
+          "lastName": "Reynolds",
+          "initials": "P A",
+          "umpireType": "OnField",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Roland",
+          "lastName": "Black",
+          "initials": "R",
+          "umpireType": "OnField",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Alexander",
+          "lastName": "Wharf",
+          "initials": "A G",
+          "umpireType": "Video",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Alan",
+          "lastName": "Neill",
+          "initials": "A J",
+          "umpireType": "Reserve",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Kevin",
+          "lastName": "Gallagher",
+          "initials": "K",
+          "umpireType": "MatchReferee",
+          "hasRetired": false
+        }
+      ],
+      "legacyFixtureId": 53599,
+      "isInProgress": false,
+      "totalOvers": "20",
+      "isPublished": true
+    },
+    {
+      "competition": {
+        "id": 1985,
+        "name": "England v South Africa ODIs - Women",
+        "url": "https://www.cricket.com.au/series/odis/yfpia3pll0anvk0zqsnfda",
+        "imageUrl": "https://www.cricket.com.au/-/media/Logos/Series/2015/Series-Generic-International-new.ashx",
+        "bannerImageUrl": "https://www.cricket.com.au/-/media/Logos/Series/Series%20banners/Series-Generic.ashx",
+        "drinksNotificationEnabled": false,
+        "order": 3,
+        "twitterHandle": "",
+        "startDateTime": "2022-07-11T00:00:00Z",
+        "endDateTime": "2022-07-18T00:00:00Z",
+        "themeUrl": "",
+        "viewerVerdict": false,
+        "priority": "Lowest",
+        "statisticsProvider": "Opta Sports",
+        "relatedSeriesIds": "",
+        "isWomensCompetition": true,
+        "formats": [
+          {
+            "displayName": "ODI",
+            "associatedMatchType": "ODI",
+            "seriesFormatName": "ODI"
+          },
+          {
+            "displayName": "T20 Intl",
+            "associatedMatchType": "T20",
+            "seriesFormatName": "T20"
+          }
+        ],
+        "legacyCompetitionId": 2948,
+        "isPublished": true,
+        "sitecoreId": "03e253c8-cb73-462f-8dbc-ad3342c34574"
+      },
+      "homeTeam": {
+        "id": 71,
+        "name": "England Women",
+        "shortName": "ENG",
+        "teamColor": "#E1131B",
+        "logoUrl": "https://www.cricket.com.au/-/media/Logos/Teams/International/England.ashx",
+        "backgroundImageUrl": "https://www.cricket.com.au/-/media/Logos/Teams/Team-Backgrounds/International/ENG.ashx",
+        "teambadgeImageUrl": "",
+        "isHomeTeam": true,
+        "isTossWinner": false,
+        "isMatchWinner": false,
+        "battingBonus": 0,
+        "bowlingBonus": 0,
+        "isActive": true
+      },
+      "awayTeam": {
+        "id": 69,
+        "name": "South Africa Women",
+        "shortName": "SA",
+        "teamColor": "#00A057",
+        "logoUrl": "https://www.cricket.com.au/-/media/Logos/Teams/International/South-Africa.ashx",
+        "backgroundImageUrl": "https://www.cricket.com.au/-/media/Logos/Teams/Team-Backgrounds/International/SA.ashx",
+        "teambadgeImageUrl": "",
+        "isHomeTeam": false,
+        "isTossWinner": true,
+        "isMatchWinner": false,
+        "battingBonus": 0,
+        "bowlingBonus": 0,
+        "isActive": true
+      },
+      "venue": {
+        "id": 63,
+        "name": "Grace Road, Leicester",
+        "city": "",
+        "imageUrl": "",
+        "latitude": "",
+        "longitude": "",
+        "phoneNumber": ""
+      },
+      "innings": [
+        {
+          "id": 26768,
+          "fixtureId": 13144,
+          "inningNumber": 1,
+          "battingTeamId": 71,
+          "bowlingTeamId": 69,
+          "isDeclared": false,
+          "isFollowOn": false,
+          "isForfeited": false,
+          "overnightRuns": 0,
+          "overnightWickets": 0,
+          "byesRuns": 4,
+          "legByesRuns": 4,
+          "noBalls": 4,
+          "penalties": 0,
+          "totalExtras": 27,
+          "wideBalls": 15,
+          "oversBowled": "50.0",
+          "runsScored": 371,
+          "currentRunRate": 7.42,
+          "numberOfWicketsFallen": 7,
+          "day": 1,
+          "duckworthLewisOvers": ""
+        },
+        {
+          "id": 26770,
+          "fixtureId": 13144,
+          "inningNumber": 2,
+          "battingTeamId": 69,
+          "bowlingTeamId": 71,
+          "isDeclared": false,
+          "isFollowOn": false,
+          "isForfeited": false,
+          "overnightRuns": 0,
+          "overnightWickets": 0,
+          "byesRuns": 0,
+          "legByesRuns": 1,
+          "noBalls": 0,
+          "penalties": 0,
+          "totalExtras": 8,
+          "wideBalls": 7,
+          "oversBowled": "26.0",
+          "runsScored": 146,
+          "currentRunRate": 5.62,
+          "numberOfWicketsFallen": 4,
+          "day": 0,
+          "duckworthLewisOvers": ""
+        }
+      ],
+      "id": 13144,
+      "name": "3rd ODI",
+      "startDateTime": "2022-07-18T13:00:00Z",
+      "endDateTime": "2022-07-18T21:00:00Z",
+      "gameTypeId": 2,
+      "gameType": "ODI",
+      "isLive": true,
+      "isCompleted": false,
+      "isDuckworthLewis": false,
+      "matchDay": 1,
+      "numberOfDays": 1,
+      "resultText": "Drinks Break: South Africa Women need 226 runs to win from 24.0 overs",
+      "resultTypeId": "None",
+      "resultType": "None",
+      "gameStatusId": "Drinks",
+      "gameStatus": "Drinks",
+      "tossResult": "South Africa Women won the toss and elected to bowl.",
+      "tossDecision": "Field",
+      "ticketUrl": "",
+      "featured": false,
+      "isWomensMatch": true,
+      "fanHashTag": "",
+      "twitterHandle": "",
+      "socialEventId": "",
+      "tuneIn": false,
+      "matchDayHomePageImageUrl": "",
+      "fanSocialEventId": "",
+      "isVideoReplays": false,
+      "gamedayStatus": "",
+      "isEnableGameday": false,
+      "moreInfoUrl": "",
+      "oversRemaining": "0.0",
+      "order": 2,
+      "competitionId": 1985,
+      "venueId": 63,
+      "homeTeamId": 71,
+      "awayTeamId": 69,
+      "channels": [
+        {
+          "channelConstantId": 3,
+          "id": 52,
+          "channelLogo": "https://www.cricket.com.au/-/media/Logos/Broadcasters/Foxtel-updated-logo.ashx",
+          "channelName": "Foxtel",
+          "channelURL": "https://www.foxtel.com.au/watch/cricket.html ",
+          "channelType": "TVChannel",
+          "registrationUrl": ""
+        },
+        {
+          "channelConstantId": 2,
+          "id": 69,
+          "channelLogo": "https://www.cricket.com.au/-/media/Logos/Broadcasters/Kayo-green.ashx",
+          "channelName": "Kayo",
+          "channelURL": "https://kayosports.com.au/?marketing=ca-launch&extcamp=cau-mtc-cau-lnk-lnc-grc-cri&channel=cricketaus&campaign=launch&voucher=CKTAUS",
+          "channelType": "TVChannel",
+          "registrationUrl": "https://kayosports.com.au/?marketing=ca-launch&extcamp=cau-web-bnr-lnc-cau-cri&channel=cricketaus&campaign=launch&voucher=CKTAUS"
+        }
+      ],
+      "officials": [
+        {
+          "firstName": "Sue",
+          "lastName": "Redfern",
+          "initials": "S",
+          "umpireType": "OnField",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Anna",
+          "lastName": "Harris",
+          "initials": "A Y",
+          "umpireType": "OnField",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Nigel",
+          "lastName": "Llong",
+          "initials": "N J",
+          "umpireType": "Video",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Graham",
+          "lastName": "Lloyd",
+          "initials": "G D",
+          "umpireType": "Reserve",
+          "hasRetired": false
+        },
+        {
+          "firstName": "Wayne",
+          "lastName": "Noon",
+          "initials": "W M",
+          "umpireType": "MatchReferee",
+          "hasRetired": false
+        }
+      ],
+      "legacyFixtureId": 53557,
+      "isInProgress": true,
+      "totalOvers": "",
+      "isPublished": true
+    }
+  ],
+  "news": [
+    {
+      "id": 60572,
+      "title": "'Can't give 100 per cent': Stokes retires from one-day cricket",
+      "imageUrl": "https://www.cricket.com.au/-/media/News/2022/07/18-stokes-world-cup.ashx",
+      "contentUrl": "https://www.cricket.com.au/news/ben-stokes-retires-from-one-day-international-odi-cricket-england-committed-test-t20-formats/2022-07-18",
+      "publishedDate": "2022-07-18T11:32:53Z",
+      "isMatchReport": false,
+      "isFeatured": false,
+      "hasVideo": false,
+      "author": {
+        "firstName": "Jack",
+        "lastName": "Paynter",
+        "biography": "",
+        "image": "https://www.cricket.com.au/-/media/common/Images/Authors/jack-paynter-author.ashx",
+        "twitterUrl": "https://twitter.com/jackpayn",
+        "twitterHandle": "@jackpayn"
+      },
+      "video": [
+        
+      ],
+      "competitions": [
+        {
+          "id": 1871,
+          "name": "England v South Africa ODIs - Men",
+          "url": "odis"
+        }
+      ],
+      "categories": [
+        "cricketcomau",
+        "caliveapp",
+        "04_Apple News"
+      ]
+    },
+    {
+      "id": 60566,
+      "title": "Aussies name strong squad to meet Zimbabwe, NZ",
+      "imageUrl": "https://www.cricket.com.au/-/media/News/2022/07/18AussieODIs.ashx",
+      "contentUrl": "https://www.cricket.com.au/news/australia-odi-squad-zimbabwe-new-zealand-townsville-cairns-one-day-international-tickets/2022-07-18",
+      "publishedDate": "2022-07-18T00:34:00Z",
+      "isMatchReport": false,
+      "isFeatured": false,
+      "hasVideo": false,
+      "author": {
+        "firstName": "Dave",
+        "lastName": "Middleton",
+        "biography": "<p><span>Dave Middleton is cricket.com.au's senior news editor and has been in sports journalism for more than 20 years. His first major cricket assignment was freelancing on the 2005 Ashes Tour</span></p>",
+        "image": "https://www.cricket.com.au/-/media/common/Images/Authors/dave-middleton-polo2.ashx",
+        "twitterUrl": "https://twitter.com/Dave_Middleton",
+        "twitterHandle": "@Dave_Middleton"
+      },
+      "video": [
+        
+      ],
+      "competitions": [
+        {
+          "id": 2107,
+          "name": "Australia v Zimbabwe ODIs - Men",
+          "url": "australia-zimbabwe-mens-dettol-odi-series-2022"
+        },
+        {
+          "id": 2108,
+          "name": "Australia v New Zealand ODIs - Men",
+          "url": "australia-new-zealand-mens-dettol-odi-series-2022"
+        }
+      ],
+      "categories": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketcomaufbrss",
+        "04_Apple News"
+      ]
+    },
+    {
+      "id": 60568,
+      "title": "Aussies seek rust removal before gold hunt begins",
+      "imageUrl": "https://www.cricket.com.au/-/media/News/2022/07/18Aus-W.ashx",
+      "contentUrl": "https://www.cricket.com.au/news/australia-rust-t20-tri-series-wides-extras-run-outs-ireland-pakistan-beth-mooney/2022-07-18",
+      "publishedDate": "2022-07-18T03:04:43Z",
+      "isMatchReport": false,
+      "isFeatured": false,
+      "hasVideo": true,
+      "author": {
+        "firstName": "Emily",
+        "lastName": "Collin",
+        "biography": "Emily Collin is cricket.com.au's Elite Women's Cricket Digital producer",
+        "image": "https://www.cricket.com.au/-/media/common/Images/Authors/emily-collin.ashx",
+        "twitterUrl": "",
+        "twitterHandle": ""
+      },
+      "video": [
+        {
+          "id": 45258,
+          "videoId": "6309651976112",
+          "shortDescription": "Alana King claimed three wickets and Darice Brown had stumps cartwheeling as she picked up two to limit Ireland's innings, before Beth Mooney and Meg Lanning saw the Aussie machine canter home for a dominant win against Ireland",
+          "duration": "00:01:30",
+          "title": "King, Mooney keep Aussie juggernaut rolling",
+          "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/17/King-Mooney-keep-Aussie-juggernaut-rolling-thumb.ashx",
+          "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/17/King-Mooney-keep-Aussie-juggernaut-rolling-still.ashx",
+          "publishedDate": "2022-07-17T22:35:58Z",
+          "restrictCountries": true,
+          "length": "90069",
+          "countries": [
+            {
+              "alpha2Code": "ae"
+            },
+            {
+              "alpha2Code": "gb"
+            },
+            {
+              "alpha2Code": "in"
+            },
+            {
+              "alpha2Code": "nz"
+            },
+            {
+              "alpha2Code": "us"
+            }
+          ]
+        }
+      ],
+      "competitions": [
+        {
+          "id": 2001,
+          "name": "T20I Tri-Series in Ireland - Women",
+          "url": "ireland-australia-pakistan-womens-t20i-tri-series-tour-series-2022"
+        },
+        {
+          "id": 2029,
+          "name": "Commonwealth Games 2022",
+          "url": "commonwealth-games-2022"
+        }
+      ],
+      "categories": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketcomaufbrss",
+        "04_Apple News"
+      ]
+    },
+    {
+      "id": 60567,
+      "title": "Zampa eyes top end impact as World Cup hike begins",
+      "imageUrl": "https://www.cricket.com.au/-/media/News/2022/07/18Zampa.ashx",
+      "contentUrl": "https://www.cricket.com.au/news/adam-zampa-australia-odi-return-zimbabwe-new-zealand-townsville-cairns-tickets/2022-07-18",
+      "publishedDate": "2022-07-18T02:29:00Z",
+      "isMatchReport": false,
+      "isFeatured": false,
+      "hasVideo": false,
+      "author": {
+        "firstName": "Adam",
+        "lastName": "Burnett",
+        "biography": "Adam Burnett is the features editor at cricket.com.au. He has previously written for The Sydney Morning Herald, The Saturday Paper and Wisden Cricket Monthly.",
+        "image": "https://www.cricket.com.au/-/media/common/Images/Authors/adam-burnett144.ashx",
+        "twitterUrl": "https://twitter.com/AdamBurnett09",
+        "twitterHandle": "@AdamBurnett09"
+      },
+      "video": [
+        
+      ],
+      "competitions": [
+        {
+          "id": 2107,
+          "name": "Australia v Zimbabwe ODIs - Men",
+          "url": "australia-zimbabwe-mens-dettol-odi-series-2022"
+        },
+        {
+          "id": 2108,
+          "name": "Australia v New Zealand ODIs - Men",
+          "url": "australia-new-zealand-mens-dettol-odi-series-2022"
+        }
+      ],
+      "categories": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketcomaufbrss",
+        "04_Apple News"
+      ]
+    },
+    {
+      "id": 60569,
+      "title": "Chest hair and chains: The best of Dennis Lillee",
+      "imageUrl": "https://www.cricket.com.au/-/media/News/2022/07/18Dennis-main.ashx",
+      "contentUrl": "https://www.cricket.com.au/news/dennis-lillee-best-of-australia-england-1977-centenary-test-remembered-greg-chappell/2022-07-18",
+      "publishedDate": "2022-07-18T05:19:00Z",
+      "isMatchReport": false,
+      "isFeatured": false,
+      "hasVideo": true,
+      "author": {
+        "firstName": "Adam",
+        "lastName": "Burnett",
+        "biography": "Adam Burnett is the features editor at cricket.com.au. He has previously written for The Sydney Morning Herald, The Saturday Paper and Wisden Cricket Monthly.",
+        "image": "https://www.cricket.com.au/-/media/common/Images/Authors/adam-burnett144.ashx",
+        "twitterUrl": "https://twitter.com/AdamBurnett09",
+        "twitterHandle": "@AdamBurnett09"
+      },
+      "video": [
+        {
+          "id": 45259,
+          "videoId": "6309655305112",
+          "shortDescription": "Fast bowler Dennis Lillee became an Australian hero for his exploits on the cricket field and here you can enjoy some of his finest work with a ball in hand",
+          "duration": "00:01:57",
+          "title": "The very best of Aussie legend Dennis Lillee",
+          "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/18/The-very-best-of-Aussie-legend-Dennis-Lillee-thumb.ashx",
+          "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/18/The-very-best-of-Aussie-legend-Dennis-Lillee-still.ashx",
+          "publishedDate": "2022-07-18T01:21:56Z",
+          "restrictCountries": false,
+          "length": "117909",
+          "countries": [
+            
+          ]
+        }
+      ],
+      "competitions": [
+        
+      ],
+      "categories": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketcomaufbrss",
+        "04_Apple News"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": 42715,
+      "videoId": "6309655305112",
+      "shortDescription": "Fast bowler Dennis Lillee became an Australian hero for his exploits on the cricket field and here you can enjoy some of his finest work with a ball in hand",
+      "videoUrl": "https://www.cricket.com.au/video/dennis-lillee-best-of-highlights-viv-richards-odi-test-wickets-video-archive-legend-fast-bowler/2022-07-18",
+      "duration": "00:01:57",
+      "title": "The very best of Aussie legend Dennis Lillee",
+      "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/18/The-very-best-of-Aussie-legend-Dennis-Lillee-thumb.ashx",
+      "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/18/The-very-best-of-Aussie-legend-Dennis-Lillee-still.ashx",
+      "publishedDate": "2022-07-18T01:37:00Z",
+      "restrictCountries": false,
+      "categories": [
+        "From the vault"
+      ],
+      "digitalProperties": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketaustralialivetv"
+      ],
+      "competitions": [
+        
+      ],
+      "countries": [
+        
+      ]
+    },
+    {
+      "id": 42713,
+      "videoId": "6309650230112",
+      "shortDescription": "Opener Beth Mooney credits the quick adjustements made by the Australia team as they stormed to a comfortable win against Ireland in unfamiliar conditions as they continue to fine-tune for the Comm Games, with Mooney top-scoring in the run chase",
+      "videoUrl": "https://www.cricket.com.au/video/beth-mooney-australia-t20-tri-series-reaction-ireland-adjustment-adaptability-opener-runs/2022-07-18",
+      "duration": "00:05:36",
+      "title": "Mooney praises ability to adjust and adapt 'on the fly'",
+      "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/17/Mooney-praises-ability-to-adjust-and-adapt-on-the-fly-thumb.ashx",
+      "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/17/Mooney-praises-ability-to-adjust-and-adapt-on-the-fly-still.ashx",
+      "publishedDate": "2022-07-17T21:22:07Z",
+      "restrictCountries": false,
+      "categories": [
+        "Interview"
+      ],
+      "digitalProperties": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketaustralialivetv"
+      ],
+      "competitions": [
+        {
+          "id": 2001,
+          "name": "T20I Tri-Series in Ireland - Women",
+          "url": "ireland-australia-pakistan-womens-t20i-tri-series-tour-series-2022"
+        }
+      ],
+      "countries": [
+        
+      ]
+    },
+    {
+      "id": 42711,
+      "videoId": "6309626443112",
+      "shortDescription": "Speaking after Australia's washed out first T20I against Pakistan, Alana King who snared three wickets in her first over, explains the adjustments she made in wintery conditions in Derry",
+      "videoUrl": "https://www.cricket.com.au/video/alana-king-three-wickets-australia-pakistan-t20i-tri-series-washout/2022-07-17",
+      "duration": "00:03:26",
+      "title": "Slippery slope: King on wickets burst in tricky Irish conditions",
+      "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/16/Slippery-slope-King-on-tricky-Irish-conditions-after-three-wicket-burst-thumb.ashx",
+      "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/16/Slippery-slope-King-on-tricky-Irish-conditions-after-three-wicket-burst-still.ashx",
+      "publishedDate": "2022-07-16T20:43:02Z",
+      "restrictCountries": false,
+      "categories": [
+        "Interview"
+      ],
+      "digitalProperties": [
+        "cricketcomau",
+        "caliveapp"
+      ],
+      "competitions": [
+        {
+          "id": 2001,
+          "name": "T20I Tri-Series in Ireland - Women",
+          "url": "ireland-australia-pakistan-womens-t20i-tri-series-tour-series-2022"
+        }
+      ],
+      "countries": [
+        
+      ]
+    },
+    {
+      "id": 42710,
+      "videoId": "6305573876112",
+      "shortDescription": "Imagine copping this in the first over of the day! NZ opener Bert Vance copped a classic from Terry Alderman in the one-off Test between the Aussies and the Kiwis in 1989.",
+      "videoUrl": "https://www.cricket.com.au/video/terry-alderman-burt-vance-saturday-seed-australia-new-zealand-test-1989/2022-07-16",
+      "duration": "00:01:03",
+      "title": "Saturday Seed: Unplayable Alderman at his best",
+      "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/5/4/Saturday-Seed-Unplayable-Alderman-at-his-best-thumb.ashx",
+      "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/5/4/Saturday-Seed-Unplayable-Alderman-at-his-best-still.ashx",
+      "publishedDate": "2022-07-16T00:06:08Z",
+      "restrictCountries": false,
+      "categories": [
+        "From the vault"
+      ],
+      "digitalProperties": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketaustralialivetv"
+      ],
+      "competitions": [
+        
+      ],
+      "countries": [
+        
+      ]
+    },
+    {
+      "id": 42709,
+      "videoId": "6309589312112",
+      "shortDescription": "Flexibility and versatility are the key ideals for interim Australia women's head coach Shelley Nitschke as her side prepares for the Commonwealth Games, with the unspoken question remaining what does it mean for Ellyse Perry in the format?",
+      "videoUrl": "https://www.cricket.com.au/video/shelley-nitschke-top-six-options-mcgrath-perry-australia-ireland-pakistan-tri-series-comm-games/2022-07-16",
+      "duration": "00:00:50",
+      "title": "Top six options galore for Aussie coach Nitschke",
+      "thumbnailUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/15/Top-six-options-galore-for-Aussie-coach-Nitschke-thumb.ashx",
+      "videoStillUrl": "https://www.cricket.com.au/-/media/Brightcove/Cricket Australia/2022/7/15/Top-six-options-galore-for-Aussie-coach-Nitschke-still.ashx",
+      "publishedDate": "2022-07-15T22:43:00Z",
+      "restrictCountries": false,
+      "categories": [
+        "Interview"
+      ],
+      "digitalProperties": [
+        "cricketcomau",
+        "caliveapp",
+        "cricketaustralialivetv"
+      ],
+      "competitions": [
+        {
+          "id": 2001,
+          "name": "T20I Tri-Series in Ireland - Women",
+          "url": "ireland-australia-pakistan-womens-t20i-tri-series-tour-series-2022"
+        }
+      ],
+      "countries": [
+        
+      ]
+    }
+  ],
+  "streamsCount": 0,
+  "responseError": false
+}

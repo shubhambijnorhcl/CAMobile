@@ -1,0 +1,136 @@
+{
+    "panels": [
+               {
+               "tiles": [
+                         {
+                         "type": "match",
+                         "size": "large"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         ]
+               }
+               
+               ]
+}

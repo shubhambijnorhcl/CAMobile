@@ -1,0 +1,156 @@
+{
+    "preRollsURL": "http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/299283/site027.opus/CAvideoad&ciu_szs=1920x144&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=%5breferrer_url%5d&description_url=%5bdescription_url%5d&correlator=%5btimestamp",
+    "preRollsEnabled": true,
+    "featuredSeriesId": 1555,
+    "notificationTypesEnabled": [
+                                 "BreakingNews",
+                                 "PromotedVideo",
+                                 "TargetedMarketing",
+                                 "MatchStart",
+                                 "Wickets",
+                                 "ScoredSix",
+                                 "FinalScore",
+                                 "InningsEnd",
+                                 "SessionEnd",
+                                 "ViewersVerdict",
+                                 "KFCTrivia"
+                                 ],
+    "viewersVerdictEnabled": true,
+    "kfcTriviaEnabled" : true,
+    "dayPassEnabled": true,
+    "season365PassEnabled": true,
+    "season365PassPromoEnabled": false,
+    "international365PassEnabled": true,
+    "internationalMonthPassEnabled": true,
+    "internationalDayPassEnabled": true,
+    "sponsorDetails": null,
+    "promoBanner": null,
+    "btFullURL": "http://mc-sit.ca-digi.com/m/#/*seriesId*/*matchId*/video",
+    "btURL": "http://mc-sit.ca-digi.com/m",
+    "btCountries" : ["GB", "IE", "IM", "GG", "JE"],
+    "appColour" : null,
+    "showBBL" : false,
+    "bblClubs" : [
+                  {
+                  "id": 241,
+                  "name": "Adelaide Strikers",
+                  "shortName": "ADS",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Adelaide%20Strikers.ashx",
+                  "teamColour" : "#00b0de"
+                  },
+                  {
+                  "id": 239,
+                  "name": "Brisbane Heat",
+                  "shortName": "BRH",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Brisbane%20Heat.ashx",
+                  "teamColour" : "#00b3bc"
+                  },
+                  {
+                  "id": 240,
+                  "name": "Hobart Hurricanes",
+                  "shortName": "HBH",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Hobart%20Hurricanes.ashx",
+                  "teamColour" : "#773cb0"
+                  },
+                  {
+                  "id": 236,
+                  "name": "Melbourne Renegades",
+                  "shortName": "MLR",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Melbourne%20Renegades.ashx",
+                  "teamColour" : "#df0048"
+                  },
+                  {
+                  "id": 237,
+                  "name": "Melbourne Stars",
+                  "shortName": "MLS",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Melbourne%20Stars.ashx",
+                  "teamColour" : "#339e00"
+                  },
+                  {
+                  "id": 215,
+                  "name": "Perth Scorchers",
+                  "shortName": "PRS",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Perth%20Scorchers.ashx",
+                  "teamColour" : "#f58400"
+                  },
+                  {
+                  "id": 216,
+                  "name": "Sydney Sixers",
+                  "shortName": "SYS",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Sydney%20Sixers.ashx",
+                  "teamColour" : "#dd1b9d"
+                  },
+                  {
+                  "id": 238,
+                  "name": "Sydney Thunder",
+                  "shortName": "SYT",
+                  "logoUrl": "http://www.cricket.com.au/~/media/Logos/Teams/BBL/Sydney%20Thunder.ashx",
+                  "teamColour" : "#9fc000"
+                  }
+                  ],
+    "wbblClubs" : [
+     {
+     "id":344,
+     "name":"Adelaide Strikers",
+     "shortName":"ADS",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Adelaide%20Strikers.ashx",
+     "teamColour":"#00b0de"
+     },
+     
+     {
+     "id":343,
+     "name":"Brisbane Heat",
+     "shortName":"BRH",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Brisbane%20Heat.ashx",
+     "teamColour":"#00b3bc"
+     },
+     
+     {
+     "id":346,
+     "name":"Hobart Hurricanes",
+     "shortName":"HBH",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Hobart%20Hurricanes.ashx",
+     "teamColour":"#773cb0"
+     },
+     
+     {
+     "id":342,
+     "name":"Melbourne Renegades",
+     "shortName":"MLR",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Melbourne%20Renegades.ashx",
+     "teamColour":"#df0048"
+     },
+     
+     {
+     "id":341,
+     "name":"Melbourne Stars",
+     "shortName":"MLS",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Melbourne%20Stars.ashx",
+     "teamColour":"#339e00"
+     },
+     
+     {
+     "id":345,
+     "name":"Perth Scorchers",
+     "shortName":"PRS",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Perth%20Scorchers.ashx",
+     "teamColour":"#f58400"
+     },
+     
+     {
+     "id":347,
+     "name":"Sydney Sixers",
+     "shortName":"SYS",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Sydney%20Sixers.ashx",
+     "teamColour":"#dd1b9d"
+     },
+     
+     {
+     "id":348,
+     "name":"Sydney Thunder",
+     "shortName":"SYT",
+     "logoUrl":"http://www.cricket.com.au/~/media/Logos/Teams/BBL/Sydney%20Thunder.ashx",
+     "teamColour":"#9fc000"
+     }]
+
+}

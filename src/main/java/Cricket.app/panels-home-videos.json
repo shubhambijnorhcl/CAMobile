@@ -1,0 +1,40 @@
+{
+    "panels": [
+        {
+            "tiles": [
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                },
+                {
+                  "type": "video",
+                  "size": "small"
+                }
+            ]
+        }
+    ]
+}

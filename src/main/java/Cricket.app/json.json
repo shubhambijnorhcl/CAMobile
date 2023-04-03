@@ -1,0 +1,1645 @@
+{
+    "meta": {
+        "upcomingMatchCount": 25,
+        "inProgressMatchCount": 0,
+        "completedMatchCount": 7
+    },
+    "matchList": {
+        "matches": [
+                    {
+                    "id": 7,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "AUS v SAF, Final",
+                    "status": "COMPLETED",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "TBC",
+                    "shortName": "AUS",
+                    "teamColour": ""
+                    },
+                    "awayTeam": {
+                    "isBatting": true,
+                    "id": 6,
+                    "name": "TBC",
+                    "shortName": "SAF",
+                    "teamColour": ""
+                    },
+                    "currentMatchState": "South Africa won by 6 wickets",
+                    "isMultiDay": false,
+                    "matchSummaryText": "South Africa won by 6 wickets",
+                    "scores": {
+                    "homeScore": "9/217 (50.0)",
+                    "homeOvers": "50.0",
+                    "awayScore": "4/221 (40.5)",
+                    "awayOvers": "40.5"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 6,
+                    "startDateTime": "2014-09-06T07:30:00Z",
+                    "endDateTime": "2014-09-06T15:15:00Z"
+                    },
+                    {
+                    "id": 6,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "ZIM v SAF, Match 6",
+                    "status": "LIVE",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": true,
+                    "id": 9,
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/Mens%20International/BCCI-logo-colour.ashx",
+                    "teamColour": "#CCCCCC"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 6,
+                    "name": "South Africa",
+                    "shortName": "SAF",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#123fa2"
+                    },
+                    "currentMatchState": "South Africa won by 63 runs",
+                    "isMultiDay": false,
+                    "matchSummaryText": "South Africa won by 63 runs",
+                    "scores": {
+                    "homeScore": "208 (47.2)",
+                    "homeOvers": "47.2",
+                    "awayScore": "6/271 (50.0)",
+                    "awayOvers": "50.0"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [
+                                      {
+                                      "id": "3743043514001",
+                                      "thumbnailUrl": "http://web-sit.ca-digi.com/~/media/Images/Streaming-still.ashx",
+                                      "channelName": "Premium related video",
+                                      "channelLogoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                                      "premiumContent" : 1
+                                      }
+                                      ,
+                                      {
+                                      "id": "3743043514001",
+                                      "thumbnailUrl": "http://web-sit.ca-digi.com/~/media/Images/Streaming-still.ashx",
+                                      "channelName": "Free related video",
+                                      "channelLogoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx"
+                                      }
+                                      ],
+                    "liveStream":
+                    {
+                    "id": "3576620628001",
+                    "thumbnailUrl": "http://web-sit.ca-digi.com/~/media/Images/Streaming-still.ashx",
+                    "channelName": "Premium live stream",
+                    "channelLogoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "channel" : 102
+                    },
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 6,
+                    "startDateTime": "2014-09-15T07:30:00Z",
+                    "endDateTime": "2014-09-15T20:15:00Z"
+                    },
+                    {
+                    "id": 5,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "AUS v SAF, Match 5",
+                    "status": "COMPLETED",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "South Africa",
+                    "shortName": "AUS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#123fa2"
+                    },
+                    "awayTeam": {
+                    "isBatting": true,
+                    "id": 6,
+                    "name": "Australia",
+                    "shortName": "SAF",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "Australia won by 62 runs",
+                    "isMultiDay": false,
+                    "matchSummaryText": "Australia won by 62 runs",
+                    "scores": {
+                    "homeScore": "7/282 (50.0)",
+                    "homeOvers": "50.0",
+                    "awayScore": "220 (44.0)",
+                    "awayOvers": "44.0"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 1,
+                    "startDateTime": "2014-09-02T07:30:00Z",
+                    "endDateTime": "2014-09-02T15:15:00Z"
+                    },
+                    {
+                    "id": 4,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "ZIM v AUS, Match 4",
+                    "status": "COMPLETED",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": true,
+                    "id": 9,
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/Mens%20International/BCCI-logo-colour.ashx",
+                    "teamColour": "#CCCCCC"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "Zimbabwe won by 3 wickets",
+                    "isMultiDay": false,
+                    "matchSummaryText": "Zimbabwe won by 3 wickets",
+                    "scores": {
+                    "homeScore": "7/211 (48.0)",
+                    "homeOvers": "48.0",
+                    "awayScore": "9/209 (50.0)",
+                    "awayOvers": "50.0"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 9,
+                    "startDateTime": "2014-08-31T07:30:00Z",
+                    "endDateTime": "2014-08-31T15:15:00Z"
+                    },
+                    {
+                    "id": 3,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "ZIM v SAF, Match 3",
+                    "status": "COMPLETED",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": true,
+                    "id": 9,
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/Mens%20International/BCCI-logo-colour.ashx",
+                    "teamColour": "#CCCCCC"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 6,
+                    "name": "South Africa",
+                    "shortName": "SAF",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#123fa2"
+                    },
+                    "currentMatchState": "South Africa won by 61 runs",
+                    "isMultiDay": false,
+                    "matchSummaryText": "South Africa won by 61 runs",
+                    "scores": {
+                    "homeScore": "170 (38.3)",
+                    "homeOvers": "38.3",
+                    "awayScore": "231 (49.5)",
+                    "awayOvers": "49.5"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 6,
+                    "startDateTime": "2014-08-29T07:30:00Z",
+                    "endDateTime": "2014-08-29T15:15:00Z"
+                    },
+                    {
+                    "id": 2,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "AUS v SAF, Match 2",
+                    "status": "COMPLETED",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "South Africa",
+                    "shortName": "AUS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#123fa2"
+                    },
+                    "awayTeam": {
+                    "isBatting": true,
+                    "id": 6,
+                    "name": "Australia",
+                    "shortName": "SAF",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "South Africa won by 7 wickets",
+                    "isMultiDay": false,
+                    "matchSummaryText": "South Africa won by 7 wickets",
+                    "scores": {
+                    "homeScore": "7/327 (50.0)",
+                    "homeOvers": "50.0",
+                    "awayScore": "3/328 (46.4)",
+                    "awayOvers": "46.4"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [
+                                     {
+                                     "brightCoveId": "3749087974001",
+                                     "broadcasterName": "ABC",
+                                     "broadcasterUrl": "http://www.abc.net.au/sport/cricket/",
+                                     "broadcasterLogo": "http://web-sit.ca-digi.com/~/media/Grandstand%20logo.ashx"
+                                     },
+                                     {
+                                     "brightCoveId": "3749087974001",
+                                     "broadcasterName": "BBC",
+                                     "broadcasterUrl": "http://www.bbc.co.uk/programmes/b03hyclx",
+                                     "broadcasterLogo": "http://web-sit.ca-digi.com/~/media/Grandstand%20logo.ashx"
+                                     }
+                                     ],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 6,
+                    "startDateTime": "2014-08-27T07:30:00Z",
+                    "endDateTime": "2014-08-27T15:15:00Z"
+                    },
+                    {
+                    "id": 1,
+                    "series": {
+                    "id": 2980,
+                    "name": "Tour of Zimbabwe (test)",
+                    "shortName": "ODI: ZIM, AUS, SAF",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/Series%20Logos/series_cwb_test1.ashx"
+                    },
+                    "name": "ZIM v AUS, Match 1",
+                    "status": "COMPLETED",
+                    "venue": {
+                    "name": "Harare Sports Club Ground",
+                    "shortName": "HarareSports"
+                    },
+                    "homeTeam": {
+                    "isBatting": true,
+                    "id": 9,
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/Mens%20International/BCCI-logo-colour.ashx",
+                    "teamColour": "#CCCCCC"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "Australia won by 198 runs",
+                    "isMultiDay": false,
+                    "matchSummaryText": "Australia won by 198 runs",
+                    "scores": {
+                    "homeScore": "152 (39.3)",
+                    "homeOvers": "39.3",
+                    "awayScore": "6/350 (50.0)",
+                    "awayOvers": "50.0"
+                    },
+                    "twitterHandle": "",
+                    "ticketUrl": "http://www.crickettraveloffice.com.au/",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "winningTeamId": 1,
+                    "startDateTime": "2014-08-25T07:30:00Z",
+                    "endDateTime": "2014-08-25T15:15:00Z"
+                    },
+                    {
+                    "id": 1,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "NSW v SA, Match 01",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Allan Border Field",
+                    "shortName": "AB Field"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "NSW Blues",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "West End Redbacks",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 11:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "/740802/22068",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-04T01:00:00Z",
+                    "endDateTime": "2014-10-04T08:45:00Z"
+                    },
+                    {
+                    "id": 2,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "QLD v VIC, Match 02",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Brisbane Cricket Ground",
+                    "shortName": "Gabba"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "liveStream":
+                    {
+                    "id": "3576620628001",
+                    "thumbnailUrl": "http://web-sit.ca-digi.com/~/media/Images/Streaming-still.ashx",
+                    "channelName": "CATV",
+                    "channelLogoUrl": "http://web-sit.ca-digi.com/~/media/cricketaustralia/images/logos/teams/ca_logo_166x163.ashx"
+                    },
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-04T04:30:00Z",
+                    "endDateTime": "2014-10-04T12:15:00Z"
+                    },
+                    {
+                    "id": 3,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "QLD v NSW, Match 03",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Allan Border Field",
+                    "shortName": "AB Field"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "NSW Blues",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 11:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-06T00:00:00Z",
+                    "endDateTime": "2014-10-06T07:45:00Z"
+                    },
+                    {
+                    "id": 4,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "VIC v SA, Match 04",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Brisbane Cricket Ground",
+                    "shortName": "Gabba"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "West End Redbacks",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-06T03:30:00Z",
+                    "endDateTime": "2014-10-06T11:15:00Z"
+                    },
+                    {
+                    "id": 5,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "TAS v VIC, Match 05",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Allan Border Field",
+                    "shortName": "AB Field"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "West End Redbacks",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 11:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-08T00:00:00Z",
+                    "endDateTime": "2014-10-08T07:45:00Z"
+                    },
+                    {
+                    "id": 6,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "SA v WA, Match 06",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Brisbane Cricket Ground",
+                    "shortName": "Gabba"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-08T03:30:00Z",
+                    "endDateTime": "2014-10-08T11:15:00Z"
+                    },
+                    {
+                    "id": 7,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "NSW v QLD, Match 07",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Brisbane Cricket Ground",
+                    "shortName": "Gabba"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "NSW Blues",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-10T03:30:00Z",
+                    "endDateTime": "2014-10-10T11:15:00Z"
+                    },
+                    {
+                    "id": 8,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "WA v TAS, Match 08",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Brisbane Cricket Ground",
+                    "shortName": "Gabba"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-11T03:30:00Z",
+                    "endDateTime": "2014-10-11T11:15:00Z"
+                    },
+                    {
+                    "id": 10,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "VIC v NSW, Match 10",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "North Sydney Oval",
+                    "shortName": "Nth. Sydney Ov."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "NSW Blues",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-11T23:00:00Z",
+                    "endDateTime": "2014-10-12T06:45:00Z"
+                    },
+                    {
+                    "id": 9,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "SA v QLD, Match 09",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Brisbane Cricket Ground",
+                    "shortName": "Gabba"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "West End Redbacks",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 11:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-12T00:00:00Z",
+                    "endDateTime": "2014-10-12T07:45:00Z"
+                    },
+                    {
+                    "id": 11,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "TAS v WA, Match 11",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "North Sydney Oval",
+                    "shortName": "Nth. Sydney Ov."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-12T23:00:00Z",
+                    "endDateTime": "2014-10-13T06:45:00Z"
+                    },
+                    {
+                    "id": 12,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "QLD v VIC, Match 12",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "North Sydney Oval",
+                    "shortName": "Nth. Sydney Ov."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-13T23:00:00Z",
+                    "endDateTime": "2014-10-14T06:45:00Z"
+                    },
+                    {
+                    "id": 13,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "SA v TAS, Match 13",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Bankstown Oval",
+                    "shortName": "Bankstown"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "NSW Blues",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-14T23:00:00Z",
+                    "endDateTime": "2014-10-15T06:45:00Z"
+                    },
+                    {
+                    "id": 14,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "NSW v WA, Match 14",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Drummoyne Oval",
+                    "shortName": "Drummoyne Oval"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "West End Redbacks",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-15T03:30:00Z",
+                    "endDateTime": "2014-10-15T11:15:00Z"
+                    },
+                    {
+                    "id": 15,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "WA v SA, Match 15",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Bankstown Oval",
+                    "shortName": "Bankstown"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "NSW Blues",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-16T23:00:00Z",
+                    "endDateTime": "2014-10-17T06:45:00Z"
+                    },
+                    {
+                    "id": 16,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "VIC v NSW, Match 16",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Drummoyne Oval",
+                    "shortName": "Drummoyne Oval"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "West End Redbacks",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-17T03:30:00Z",
+                    "endDateTime": "2014-10-17T11:15:00Z"
+                    },
+                    {
+                    "id": 17,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "QLD v TAS, Match 17",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "North Sydney Oval",
+                    "shortName": "Nth. Sydney Ov."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-17T23:00:00Z",
+                    "endDateTime": "2014-10-18T06:45:00Z"
+                    },
+                    {
+                    "id": 18,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "VIC v WA, Match 18",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Drummoyne Oval",
+                    "shortName": "Drummoyne Oval"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 14,
+                    "name": "Commonwealth Bank Bushrangers",
+                    "shortName": "VIC",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-VIC.ashx",
+                    "teamColour": "#001e46"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-18T23:00:00Z",
+                    "endDateTime": "2014-10-19T06:45:00Z"
+                    },
+                    {
+                    "id": 19,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "NSW v TAS, Match 19",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Drummoyne Oval",
+                    "shortName": "Drummoyne Oval"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 10,
+                    "name": "NSW Blues",
+                    "shortName": "NSW",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-NSW.ashx",
+                    "teamColour": "#167fa3"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-20T03:30:00Z",
+                    "endDateTime": "2014-10-20T11:15:00Z"
+                    },
+                    {
+                    "id": 20,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "TAS v SA, Match 20",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "North Sydney Oval",
+                    "shortName": "Nth. Sydney Ov."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 13,
+                    "name": "Tasmanian Tigers",
+                    "shortName": "TAS",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-TAS.ashx",
+                    "teamColour": "#006f3b"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 12,
+                    "name": "West End Redbacks",
+                    "shortName": "SA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-SA.ashx",
+                    "teamColour": "#d2232a"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-21T23:00:00Z",
+                    "endDateTime": "2014-10-22T06:45:00Z"
+                    },
+                    {
+                    "id": 21,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "WA v QLD, Match 21",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Bankstown Oval",
+                    "shortName": "Bankstown"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 15,
+                    "name": "Alcohol.Think Again Western Warriors",
+                    "shortName": "WA",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-WA.ashx",
+                    "teamColour": "#bb7b22"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 11,
+                    "name": "my Foot Dr Queensland Bulls",
+                    "shortName": "QLD",
+                    "logoUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/Matador-Flags-QLD.ashx",
+                    "teamColour": "#762033"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 10:00AM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-21T23:00:00Z",
+                    "endDateTime": "2014-10-22T06:45:00Z"
+                    },
+                    {
+                    "id": 1,
+                    "series": {
+                    "id": 2968,
+                    "name": "2014/15 Pakistan v Australia (in UAE)",
+                    "shortName": "Test: PAK v AUS"
+                    },
+                    "name": "PAK v AUS, 1st Test",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Dubai International Cricket Stadium",
+                    "shortName": "Dubai Ckt Std."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 5,
+                    "name": "Pakistan",
+                    "shortName": "PAK"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "Australia",
+                    "shortName": "AUS"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": true,
+                    "matchSummaryText": "To Be Played: 5:00PM AET",
+                    "ticketUrl": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-22T06:00:00Z",
+                    "endDateTime": "2014-10-26T13:00:00Z"
+                    },
+                    {
+                    "id": 22,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "TBD v TBD, Prelim Final",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Drummoyne Oval",
+                    "shortName": "Drummoyne Oval"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 0,
+                    "name": "TBC",
+                    "shortName": "TBD",
+                    "teamColour": ""
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 0,
+                    "name": "TBC",
+                    "shortName": "TBD",
+                    "teamColour": ""
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-24T03:30:00Z",
+                    "endDateTime": "2014-10-24T11:15:00Z"
+                    },
+                    {
+                    "id": 23,
+                    "series": {
+                    "id": 5017,
+                    "name": "Matador BBQs One-Day Cup 2014",
+                    "shortName": "ODD: Matador Cup",
+                    "shieldImageUrl": "http://web-sit.ca-digi.com/~/media/Matador%20cup/MatadorOneDayCup_CMYK_ill10-Converted.ashx"
+                    },
+                    "name": "TBD v TBD, Final",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Sydney Cricket Ground",
+                    "shortName": "SCG"
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 0,
+                    "name": "TBC",
+                    "shortName": "TBD",
+                    "teamColour": ""
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 0,
+                    "name": "TBC",
+                    "shortName": "TBD",
+                    "teamColour": ""
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": false,
+                    "matchSummaryText": "To Be Played: 2:30PM AET",
+                    "twitterHandle": "",
+                    "ticketUrl": "",
+                    "socialEventId": "",
+                    "radioStreams": [],
+                    "televisionStreams": [
+                                          {
+                                          "broadcasterId": "[TODO] Resolve Unknown Value",
+                                          "broadcasterUrl": "http://wwos.ninemsn.com.au/cricket/",
+                                          "broadcasterLogo": "http://web-sit.ca-digi.com/"
+                                          }
+                                          ],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-26T03:30:00Z",
+                    "endDateTime": "2014-10-26T11:15:00Z"
+                    },
+                    {
+                    "id": 2,
+                    "series": {
+                    "id": 2968,
+                    "name": "2014/15 Pakistan v Australia (in UAE)",
+                    "shortName": "Test: PAK v AUS"
+                    },
+                    "name": "PAK v AUS, 2nd Test",
+                    "status": "UPCOMING",
+                    "venue": {
+                    "name": "Sheikh Zayed Stadium",
+                    "shortName": "S.Zayed Std."
+                    },
+                    "homeTeam": {
+                    "isBatting": false,
+                    "id": 5,
+                    "name": "Pakistan",
+                    "shortName": "PAK"
+                    },
+                    "awayTeam": {
+                    "isBatting": false,
+                    "id": 1,
+                    "name": "Australia",
+                    "shortName": "AUS"
+                    },
+                    "currentMatchState": "To Be Played",
+                    "isMultiDay": true,
+                    "matchSummaryText": "To Be Played: 5:00PM AET",
+                    "ticketUrl": "",
+                    "radioStreams": [],
+                    "televisionStreams": [],
+                    "relatedVideos": [],
+                    "isFeatured": false,
+                    "isRadioStreamActive": false,
+                    "isTvStreamActive": false,
+                    "isMatchDrawn": false,
+                    "startDateTime": "2014-10-30T06:00:00Z",
+                    "endDateTime": "2014-11-03T13:00:00Z"
+                    }
+                    ]
+    }
+}

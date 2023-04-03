@@ -1,0 +1,104 @@
+{
+    "panels": [
+               {
+               "tiles": [
+                         {
+                         "type": "match",
+                         "size": "large"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         },
+                         {
+                         "type": "match",
+                         "size": "small"
+                         }
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "match",
+                         "size": "small"
+                         },
+                         {
+                         "type": "article",
+                         "size": "small"
+                         }
+                         ]
+               },
+               {
+               "tiles": [
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "news",
+                         "size": "small"
+                         },
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "video",
+                         "size": "small"
+                         },
+                         {
+                         "type": "ad",
+                         "size": "small"
+                         }
+                         ]
+               }
+               ]
+}

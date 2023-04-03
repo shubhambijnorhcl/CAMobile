@@ -1,0 +1,11 @@
+{
+    "typeFace": "Latin Modern Roman",
+    "style" : "dark",
+    "primaryfontColor": "#e6f01e",
+    "secondaryFontColor": "#3d3c3f",
+    "thirdFontColor": "#000000",
+    "fourthFontColor": "#aaa6a6",
+    "backgroundColor": "#ffffff",
+    "banner":"https://webauthoring.cricket.com.au/~/media/Themes/series/Domestic/BBL/CLOA-bbl-concrete-ios-tablet.ashx",
+    "phoneIcon":""
+}

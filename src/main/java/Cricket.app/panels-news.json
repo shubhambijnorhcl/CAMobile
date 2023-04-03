@@ -1,0 +1,160 @@
+{
+    "panels": [
+        {
+            "tiles": [
+                {
+                    "type": "article",
+                    "size": "large"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "ad",
+                    "size": "small"
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "ad",
+                    "size": "small"
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "ad",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                },
+                {
+                    "type": "article",
+                    "size": "small"
+                }
+            ]
+        }
+    ]
+}

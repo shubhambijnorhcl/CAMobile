@@ -1,0 +1,22 @@
+[{
+            "notificationName" : "MatchStart",
+            "notificationTitle" : "Match Start",
+            "notificationDescription" : "Receive a notification at the beginning of each match with the result of the toss"
+},
+{
+            "notificationName" : "Wickets",
+            "notificationTitle" : "Wicket",
+            "notificationDescription" : "Receive a notification every time a wicket falls"
+},{
+            "notificationName" : "ScoredSix",
+            "notificationTitle" : "Six",
+            "notificationDescription" : "Receive a notification every time a six is scored"
+},{
+            "notificationName" : "InningsEnd",
+            "notificationTitle" : "Innings",
+            "notificationDescription" : "Receive a notification for innings score"
+},{
+            "notificationName" : "FinalScore",
+            "notificationTitle" : "Match result",
+            "notificationDescription" : "Receive a notification at the end of each match with the result"
+}]
